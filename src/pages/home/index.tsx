@@ -20,7 +20,7 @@ import {
   EnterIcon,
   IllustrationIcon,
   UploadIcon,
-} from "../../icons/other-icons";
+} from "../../assets/icons/other-icons";
 import { useState } from "react";
 import { Button } from "../../components/ui/button";
 

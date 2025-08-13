@@ -2,7 +2,7 @@ import { Flex, IconButton } from "@chakra-ui/react";
 import { ChatGPTMenu } from "./gpt-menu-items";
 import { Avatar } from "../../../components/ui/avatar";
 import { Tooltip } from "../../../components/ui/tooltip";
-import { NewChatIcon, SidebarIcon } from "../../../icons/sidebar-icons";
+import { NewChatIcon, SidebarIcon } from "../../../assets/icons/sidebar-icons";
 import { useSidebarContext } from "../sidebar/sidebar-context";
 
 export function Header() {

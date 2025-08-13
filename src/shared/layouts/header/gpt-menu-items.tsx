@@ -13,7 +13,7 @@ import {
   CheckIcon,
   MenuIcon,
   TemporaryChatIcon,
-} from '../../../icons/other-icons';
+} from '../../../assets/icons/other-icons';
 import { Switch } from '../../../components/ui/switch';
 
 interface MenuItemDetailProps {

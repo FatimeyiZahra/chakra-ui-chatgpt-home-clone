@@ -17,7 +17,7 @@ import {
   SidebarIcon,
   SmallGPTIcon,
   UpgradeIcon,
-} from "@/icons/sidebar-icons";
+} from "@/assets/icons/sidebar-icons";
 
 export function Sidebar() {
   const { sideBarVisible, toggleSidebar } = useSidebarContext();
